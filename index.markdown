@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+sidebar:
+  nav: "docs"
 ---
 
 **Hyde** is an archive of The Phoenix Chronobiology Projects' original website, which resided at `www.phoenix.tc-ieee.org`. That site was retired when the host site was refactored.

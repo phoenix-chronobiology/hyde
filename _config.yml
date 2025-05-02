@@ -50,3 +50,14 @@ plugins: []
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# sidebar navigation
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
